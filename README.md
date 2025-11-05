@@ -13,7 +13,7 @@
 💡 I’m **Pratham Pai**, an **engineering student** building the foundation to become a **Full-Stack Developer** by 2025.  
 🚀 I’m currently learning **Web Development (HTML, CSS, JS, React, Node.js)** and **DSA in C** to sharpen my logic and fundamentals.  
 🧠 I’m also diving into **Cybersecurity** — exploring how tech systems can be secured from the inside out.  
-🎧 Outside of code, I run a creative YouTube channel called [**Pratham AI Beats**](https://www.youtube.com/@PrathamAIB) where I mix AI, music, and storytelling.  
+🎧 Outside of code, I run a creative YouTube channel called [**Pratham AI Beats**](https://www.youtube.com/@PrathamAIBeats) where I mix AI, music, and storytelling.  
 💪 Fitness & discipline are my constants — I balance code, creativity, and consistency every day.
 
 ---
