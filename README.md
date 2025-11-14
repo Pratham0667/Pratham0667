@@ -39,24 +39,40 @@
 
 ---
 
-
-<!-- ## 🌗 Dark / Light Mode Preview
-
-
-
-> *Design should feel effortless — whether you’re coding at midnight or 9 a.m.* -->
-
----
-
 ## 🎨 Fun Stats & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham0667&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://camo.githubusercontent.com/56ed18fcf297bdc5943c9662d36d207b9a236bcacf7cc9545bd0cbe5d41502e0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5072617468616d30363637267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Pratham0667&theme=tokyonight&hide_border=true&border_radius=5" height="165" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham0667&layout=compact&theme=tokyonight&hide_border=true"
+       height="180"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00E7FF&center=true&vCenter=true&width=500&lines=MARK-42+SYSTEM+BOOTING...;JARVIS+LINK+ESTABLISHED;PARTHA+AUTHORIZATION+LEVEL+7;SYSTEM+ONLINE⚡" />
 </p>
 
 
+
+
+
+
+
+
 ---
+
+
 
 ## 🎯 Learning Radar
 
@@ -74,8 +90,8 @@
 
 > 💡 *“Discipline is my default mode.”*  
 > ⚔️ *“No zero days — every line of code counts.”*  
-> 🔥 *“When I don’t feel like working, that’s when I train the hardest.”*
-> 🦁 * "1% better than every day "*
+> 🔥 *“When I don’t feel like working, that’s when I train the hardest.”*  
+> 🦁 *“1% better every day.”*
 
 ---
 
@@ -114,5 +130,3 @@ I’m open to:
 <p align="center">
   <b>⚡ Code • Create • Conquer — Partha ⚔️</b><br/>
 </p>
-
-
