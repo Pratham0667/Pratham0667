@@ -35,7 +35,7 @@
 - 🧩 DSA in C — mastering logic, not memorizing syntax  
 - ⚙️ Java mini projects for backend mastery  
 - 🧠 Automating creative tools with AI & JS  
-- 🧘 Discipline routines: Code. Lift. Reflect. Repeat.
+- 🧘 Discipline routines: Code. Lift. Reflect. Repeat. Enjoy.
 
 ---
 
