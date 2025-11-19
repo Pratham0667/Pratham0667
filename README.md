@@ -16,7 +16,7 @@
 💻 Passionate about writing clean, useful code and turning ideas into real-world projects.  
 🔐 Exploring **Cybersecurity**, **Cloud Computing**, and **AI** side-by-side.  
 🎵 Creative mind behind **[Pratham AI Beats](https://www.youtube.com/@PrathamAIBeats)** — where tech meets sound.  
-💪 Balancing code, gym, music and consistency every single day.
+💪 Balancing code, gym, music and consistency every single day.(i am not perfect)
 
 ---
 
