@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me (not everything)
 
 🎯 Engineering student building my foundation to become a **Full-Stack Developer by 2026**.  
 💻 Passionate about writing clean, useful code and turning ideas into real-world projects.  
