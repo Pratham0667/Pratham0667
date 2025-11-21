@@ -1,4 +1,4 @@
-<!-- ⚡ PRATHAM PAI | a.k.a PARTHA -->
+<!-- ⚡ PRATHAM PAI  | a.k.a PARTHA -->
 <!-- Engineering Student | Full Stack Dev | Creator | Cyber Learner -->
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00FFFF;">Pratham Pai</span> — aka <span style="color:#ff9800;">Partha ⚔️</span></h1>
