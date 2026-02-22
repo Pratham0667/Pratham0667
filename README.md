@@ -14,7 +14,7 @@
 💻 Passionate about writing clean, useful code and turning ideas into real-world projects.  
 🔐 Exploring **Cybersecurity**, **Cloud Computing**, and **AI** side-by-side.  
 🎵 Creative mind behind **[Pratham AI Beats](https://www.youtube.com/@PrathamAIBeats)** — where tech meets sound.  
-💪 Balancing code, gym, music and consistency every single day.(i am not perfect)
+💪 Balancing code, gym, music and consistency every single day.(i am not perfect).
 ⛓️‍💥 soical too i can yap about anything in the world !
 
 
@@ -60,23 +60,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00E7FF&center=true&vCenter=true&width=500&lines=MARK-42+SYSTEM+BOOTING...;JARVIS+LINK+ESTABLISHED;PARTHA+AUTHORIZATION+LEVEL+7;SYSTEM+ONLINE⚡" />
-</p>
-
-
-
-## 🎯 Learning Radar
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dev-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-%23007ACC.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-%23FF6F00.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Automation-%2300A98F.svg?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
 
 ## 💬 Fun Zone — “Partham Mode” Quotes
 
