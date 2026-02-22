@@ -10,13 +10,13 @@
 
 ---
 
-## 🧠 About Me (not everything)
-
-🎯 Engineering student building my foundation to become a **Full-Stack Developer by 2026**.  
+## 🧠 About Me (not everything)  
 💻 Passionate about writing clean, useful code and turning ideas into real-world projects.  
 🔐 Exploring **Cybersecurity**, **Cloud Computing**, and **AI** side-by-side.  
 🎵 Creative mind behind **[Pratham AI Beats](https://www.youtube.com/@PrathamAIBeats)** — where tech meets sound.  
 💪 Balancing code, gym, music and consistency every single day.(i am not perfect)
+⛓️‍💥 soical too i can yap about anything in the world !
+
 
 ---
 
@@ -36,13 +36,14 @@
 - ⚙️ Java mini projects for backend mastery  
 - 🧠 Automating creative tools with AI & JS  
 - 🧘 Discipline routines: Code. Lift. Reflect. Repeat. Enjoy.
+- 😎 python learning for AIML
+
 
 ---
 
 ## 🎨 Fun Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham0667&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=Pratham0667&theme=tokyonight&hide_border=true&border_radius=5" height="165" />
 </p>
 
@@ -62,15 +63,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00E7FF&center=true&vCenter=true&width=500&lines=MARK-42+SYSTEM+BOOTING...;JARVIS+LINK+ESTABLISHED;PARTHA+AUTHORIZATION+LEVEL+7;SYSTEM+ONLINE⚡" />
 </p>
-
-
-
-
-
-
-
-
----
 
 
 
