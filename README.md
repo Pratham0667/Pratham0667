@@ -103,5 +103,5 @@ I’m open to:
 </p>
 
 <p align="center">
-  <b>⚡ Code • Create • Conquer — Partha ⚔️</b><br/>
+  <b>⚡ Code • Create • Conquer — Partha ⚔️ only make good things</b><br/>
 </p>
