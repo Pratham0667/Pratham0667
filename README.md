@@ -72,9 +72,10 @@ status      : 5th semester, Computer Science & Design
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pratham0667/Pratham0667/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📈 Coding Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratham0667&theme=tokyonight)
-
+### 🏙️ My 3D Contribution City
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pratham0667/Pratham0667/main/profile-3d-contrib/profile-green-animate.svg" alt="3D City" />
+</p>
 
 ### `>` connect
 
