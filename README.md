@@ -1,107 +1,80 @@
-<!-- ⚡ PRATHAM PAI  | a.k.a PARTHA -->
-<!-- Engineering Student | Full Stack Dev | Creator | Cyber Learner -->
-
-<h1 align="center">Hey 👋, I'm <span style="color:#00FFFF;">Pratham Pai</span> — aka <span style="color:#ff9800;">Partha ⚔️</span></h1>
-<h3 align="center">Full-Stack Developer • DSA in C • Cybersecurity Explorer • Music Creator</h3>
+<h1 align="center">PRATHAM PAI</h1>
+<h3 align="center">⚡ Full-Stack Developer // Building Real Systems ⚡</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="280" alt="Coding animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DSA+%2B+System+Design;Building+Scalvio;Shipping+real+projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <code>[ SYSTEM ONLINE ]</code> &nbsp;•&nbsp;
+  <code>[ STATUS: BUILDING ]</code> &nbsp;•&nbsp;
+  <code>[ MODE: SHIP FAST ]</code>
 </p>
 
 ---
 
-## 🧠 About Me (not everything)  
-💻 Passionate about writing clean, useful code and turning ideas into real-world projects.  
-🔐 Exploring **Cybersecurity**, **Cloud Computing**, and **AI** side-by-side.  
-🎵 Creative mind behind **[Pratham AI Beats](https://www.youtube.com/@PrathamAIBeats)** — where tech meets sound.  
-💪 Balancing code, gym, music and consistency every single day.(i am not perfect).
-⛓️‍💥 soical too i can yap about anything in the world !
+### `>` whoami
 
+```
+name        : Pratham Pai
+role        : Full-Stack Developer (in progress)
+focus       : Web Apps · SaaS · System Design
+based_in    : India
+status      : 5th semester, Computer Science & Design
+```
 
 ---
 
-## ⚙️ Tech Arsenal
+
+### `>` tech_stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,nodejs,mongodb,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,java,spring,postgres,mysql,mongodb,git,github,vscode,figma" />
 </p>
 
-> “Weapons of a modern-day digital warrior — forged through repetition, refined through obsession.”
+---
+
+### `>` currently
+
+```diff
++ Sharpening DSA (C)  patterns over memorization
++ Building full-stack projects 
++ Learning system design fundamentals
++ Exploring Python for ML basics
+```
 
 ---
 
-## 🚀 Currently Grinding On
-
-- 🧩 DSA in C — mastering logic, not memorizing syntax  
-- ⚙️ Java mini projects for backend mastery  
-- 🧠 Automating creative tools with AI & JS  
-- 🧘 Discipline routines: Code. Lift. Reflect. Repeat. Enjoy.
-- 😎 python learning for AIML
-
-
----
-
-## 🎨 Fun Stats & Analytics
+### `>` github_activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pratham0667&theme=tokyonight&hide_border=true&border_radius=5" height="165" />
 </p>
 
----
-
-## 📊 Most Used Languages
-
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham0667&layout=compact&theme=tokyonight&hide_border=true"
-       height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham0667&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-
-## 💬 Fun Zone — “Partham Mode” Quotes
-
-> 💡 *“Discipline is my default mode.”*  
-> ⚔️ *“No zero days — every line of code counts.”*  
-> 🔥 *“When I don’t feel like working, that’s when I train the hardest.”*  
-> 🦁 *“1% better every day.”*
-
----
-
-## 🤝 Hire Me / Let’s Collaborate
-
-I’m open to:
-- 🚀 Freelance & internship opportunities  
-- 🧩 Collaborations on full-stack or automation projects  
-- 🧠 Open-source contributions in web, Java, or cybersecurity  
-
-📫 **Reach me:**  
-**Email:** prathampai0667@gmail.com  
-**LinkedIn:** [linkedin.com/in/prathampai](https://www.linkedin.com/in/pratham-pai-73a8962bb/)  
-**GitHub:** [github.com/Pratham0667](https://github.com/Pratham0667)
-
-> 💬 *“If you’ve got an idea worth building, let’s make it real.”*
-
----
-
-## ⚔️ Partha Code — My Personal Developer Oath
-
-- 💪 No zero days.  
-- 🧠 Build > Consume.  
-- ⚙️ Focus > Feelings.  
-- 🔥 Consistency > Motivation.  
-- 💻 Ship fast, learn faster.  
-- ⚔️ Be dangerous in silence.  
-- 🧩 Leave every repo cleaner than you found it.
-
----
+### `>` connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="Coding loop" />
+  <a href="mailto:prathampai0667@gmail.com"><img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/pratham-pai-73a8962bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Pratham0667"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <b>⚡ Code • Create • Conquer — Partha ⚔️ only make good things</b><br/>
+  <sub>Open to internships, freelance work, and collaboration on full-stack / automation projects.</sub>
+</p>
+
+---
+
+<p align="center">
+  <code>// no zero days. build > consume. ship fast, learn faster.</code>
 </p>
