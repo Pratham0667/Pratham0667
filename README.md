@@ -59,6 +59,9 @@ status      : 5th semester, Computer Science & Design
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham0667&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
+### 👁️ Profile Views
+<img src="https://komarev.com/ghpvc/?username=Pratham0667&color=blueviolet&style=flat-square" alt="Pratham0667" />
+
 ---
 
 ## 🐍 My Contribution Snake
@@ -69,6 +72,9 @@ status      : 5th semester, Computer Science & Design
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pratham0667/Pratham0667/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 📈 Coding Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratham0667&theme=tokyonight)
+
 
 ### `>` connect
 
@@ -76,6 +82,7 @@ status      : 5th semester, Computer Science & Design
   <a href="mailto:prathampai0667@gmail.com"><img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/pratham-pai-73a8962bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Pratham0667"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
 </p>
 
 <p align="center">
